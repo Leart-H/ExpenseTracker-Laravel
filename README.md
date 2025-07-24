@@ -1,6 +1,6 @@
 # expensetrck
 Expense Tracker
-/expenses ; brings you to the dashboard page
+/expenses ; brings you to the dashboard page,
 /expenses/create ; sents you to the add expenses page
 <img width="947" height="442" alt="Screenshot1" src="https://github.com/user-attachments/assets/cce06544-3fd9-4be1-8b6d-384204105ebe" />
 <img width="950" height="445" alt="screnshot2" src="https://github.com/user-attachments/assets/133b1935-d974-4295-bf2e-6bc8e4e7a7c2" />
